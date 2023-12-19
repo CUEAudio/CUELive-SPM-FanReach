@@ -1,12 +1,12 @@
-# CUELive-SPM
+# CUELive-SPM-FanReach
 
 ## Add the CUELive SDK
 
-Add the CUELive framework using the Package manager in Xcode. Use the URL: `https://github.com/CUEAudio/CUELive-SPM.git`
+Add the CUELive framework using the Package manager in Xcode. Use the URL: `https://github.com/CUEAudio/CUELive-SPM-FanReach.git`
 
 ![](images/xcode-1.png)
 
-Once the dialog for the package manager is opened, search for the CUELive SPM in the search field at the top right. Enter the following URL to help discover the package: `https://github.com/CUEAudio/CUELive-SPM.git`.
+Once the dialog for the package manager is opened, search for the CUELive SPM in the search field at the top right. Enter the following URL to help discover the package: `https://github.com/CUEAudio/CUELive-SPM-FanReach.git`.
 
 ![](images/xcode-2.png)
 

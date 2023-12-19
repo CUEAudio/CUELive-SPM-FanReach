@@ -23,8 +23,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "CUELive",
-            url: "https://s3.amazonaws.com/swift-package-manager/binaries/CUELive/3.4.18-remove-lottie/CUELive.3.4.18-remove-lottie.xcframework.zip",
-            checksum: "1c0ce7744277027d2e2e708689f4329ba00fcf5871f04f2f3bc8184173263c1f"
+            url: "https://s3.amazonaws.com/swift-package-manager/CUELive/3.7.4-remove-lottie/CUELive-3.7.4-no-lottie.xcframework.zip",
+            checksum: "7c189686966aac6c8ca7e2f7d216bcbe20b2829a3cfad9fdebc32651c4628f9a"
         ),
         .binaryTarget(
             name: "CUEBluetooth",
@@ -39,17 +39,17 @@ let package = Package(
         .binaryTarget(
             name: "TrueTime",
             url: "https://s3.amazonaws.com/swift-package-manager/TrueTime/5.1.0/TrueTime.5.1.0.xcframework.zip",
-            checksum: "d7c25f40dbf33825a38395e2abffcf7525a3e1506535c0e33759b1b65c2e55b7"
+            checksum: "4bab1fc882c66a72a7cdd14d2de7aa2a958dec1d8911b623440646a611f0dc92"
         ),
         .binaryTarget(
             name: "MQTTClient",
             url: "https://s3.amazonaws.com/swift-package-manager/MQTTClient/0.15.3/MQTTClient.0.15.3.xcframework.zip",
-            checksum: "ff8004ed5a5ac933f0612d9a0d8c1f60a8eb36742d7bd032428cfcdd7e77072c"
+            checksum: "c6392d6411652f7374f0bc20a6f46519a3ab3ef9ed047669c8a40861bb1fb173"
         ),
         .binaryTarget(
             name: "SocketRocket",
             url: "https://s3.amazonaws.com/swift-package-manager/SocketRocket/0.5.1/SocketRocket.0.5.1.xcframework.zip",
-            checksum: "14f9ba5bcc380739f0bd0d9a432d0924868b2427f787dcb4c79cd9de8f0ad04a"
+            checksum: "0a8e220d9b5391f14d0b6e5f90c31414500055d241e8b10fb58f1d91a4c5c0bd"
         )
     ]
 )
